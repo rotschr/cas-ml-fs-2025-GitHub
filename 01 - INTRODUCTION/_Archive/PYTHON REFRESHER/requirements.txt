@@ -1,0 +1,11 @@
+black
+faker
+ipykernel
+jupyter
+matplotlib
+numpy
+pandas
+sympy
+scipy
+seaborn
+tenacity

@@ -1,0 +1,84 @@
+label,sentence,purpose,word
+0,"Tourismus, Landwirtschaft, Logistik und Mobilität, Energiewirtschaft der Zukunft und Bauwirtschaft - kaum ein Wirtschaftszweig ist vom Wetter unabhängig.",test,unabhängig
+1,Sie müssen als unabhängig angesehen werden.,test,unabhängig
+1,"Ihre Persönlichkeit und Arbeitsweise: teamfähig, effektiv, fokussiert, unabhängig, ergebnisorientiert, verantwortungsbewusst.",train,unabhängig
+0,"Damit die Stundenlänge auch tatsächlich von der Jahreszeit unabhängig angezeigt wird, muss der Polstab parallel zur Erdachse ausgerichtet werden.",train,unabhängig
+1,"Dazu gehört Einfühlungsvermögen, gegenseitige Information, soziales Engagement, manchmal vermittelndes, manchmal entschiedenes Auftreten.",train,entschieden
+0,"Die Zentralbank wird unabhängig sein, sie darf nicht verantwortungslos sein.",train,unabhängig
+0,"Ein unbeschränkter Rückzahlungsanspruch besteht, wenn er vom Geschäftserfolg unabhängig ist ",train,unabhängig
+0,Jedes Dorf der Bru war relativ unabhängig von anderen.,train,unabhängig
+0,diesmal bist du entschieden zu weit gegangen,train,entschieden
+0,"Sie sind unabhängig, verschwiegen, kompetent und vertreten nur die Interessen ihres Mandanten.",train,unabhängig
+1,Sie sind unabhängig und freuen sich am Wochenende eventuell mit dem Stoffmarkt Hollland unterwegs zu sein?,train,unabhängig
+0,"So unspektakulär sich diese Geschichte anlässt, so entschieden ist ihre Inszenierung.",validate,entschieden
+0,eine unabhängig arbeitende Organisation,train,unabhängig
+0,"Dabei hat sich gezeigt, dass das Auftreten dieser Insekten von der Jahreszeit unabhängig ist.",train,unabhängig
+0,Ausgehend davon wird über den Inhalt des Programms entschieden.,train,entschieden
+0,"Ich erinnere mich, dass Sie seinerzeit sehr entschieden erklärten, daß eine Richtlinie erforderlich ist.",train,entschieden
+1,Sie müssen unabhängig sein,train,unabhängig
+0,Neuseeland war der erste unabhängige Staat mit Frauenwahlrecht.,train,unabhängig
+1,Du kennst mögliche Szenarien und bist entschieden. Das bringt erfahrungsgemäß bis zu 30% Zeitersparnis in der Umsetzung. ,validate,entschieden
+1,"Als „außergewöhnlich fähige, eloquente, willensstarke und entschiedene Führerpersönlichkeit charakterisieren ihn Bekannte in seinem Geburtsort Gaza: Ramadan Abdallah Schallah, von Beruf islamischer Prediger, ist der neue Führer der palästinensischen Islamistenorganisation „Dschihad“.",train,entschieden
+0,Gegen solche Entwicklungen müssen wir uns entschieden und klar widersetzen.,train,entschieden
+0,So viel Hilfe wie nötig und soviel Selbstständigkeit wie möglich garantiert das Betreute Wohnen: Sie leben eigenständig und unabhängig in ihrer eigenen Wohnung.,train,unabhängig
+1,Man kann nicht nur ein wenig unabhängig sein.,train,unabhängig
+0,Lernen wird vom Ort und vom Termin unabhängig: Lernen wird individueller und personalisierter.,train,unabhängig
+0,Man will die Behörde unabhängig halten.,validate,unabhängig
+1,Sie sind unabhängig in Ihrer Wahl bei Hardware und Software.,train,unabhängig
+1,"Durch seine bescheidene, immer freundliche und charmante, aber dennoch entschiedene Art und seine Begeisterungsfähigkeit, wird er uns ein Vorbild bleiben.",train,entschieden
+1,"Als entscheidend dafür wird eine starke, stabile und entschiedene Führung zusammen mit einer entschiedenen Personzentrierung angesehen",test,entschieden
+0,Sie sind unabhängig in der Wahl der Einzelkomponenten,train,unabhängig
+1,"Du bist unabhängig, ergebnisorientiert, strukturiert.",test,unabhängig
+1,"Feministin, SPÖ-Politikerin und Österreichs erste Frauenministerin in der Zweiten Republik: Johanna Dohnal wurde durch ihre entschiedene Art, Politik zu machen, zur wichtigsten Vorkämpferin für Frauenrechte und Gleichberechtigung.",train,entschieden
+0,"Es fällt schwer, diese beiden Ereignisse völlig unabhängig voneinander zu betrachten.",train,unabhängig
+1,"Eine Mehrheit der Bürger lässt deutlich erkennen, dass sie nach 16 Jahren moderierender Merkel-Kanzlerschaft endlich entschiedene Führung wünschen.",train,entschieden
+1,"Ich bewunderte ihre entschiedene Art, ihren Mut, dass sie das jetzt alles so entschlossen alleine durchziehen wollte.",validate,entschieden
+0,"Damit entsteht vermehrt die Möglichkeit, daß aufgrund mangelnder Informationen und Kompetenzen in der Bevölkerung von deren Einfluß unabhängig getroffene Entscheidungen keine Akzeptanz finden.",test,unabhängig
+0,"Der wichtigste Schritt ist, sich von denen zu lösen und sich emotional von deren Einfluss unabhängig zu machen.",validate,unabhängig
+1,"Sie arbeiten eigenständig, eigenverantwortlich und unabhängig in ihrer Region. Durch die Festlegung auf gemeinsame Prinzipien stärken sie die gesamte Gruppe.",train,unabhängig
+0,Gegen solche Entwicklungen müssen wir uns entschieden und klar widersetzen.,train,entschieden
+1,"Du bist entschieden und weißt, was du willst?",train,entschieden
+0,"Ich habe mich dazu entschieden, das Angebot anzunehmen",test,entschieden
+1,Du bist unabhängig und flexibel und haben ein hohes Maß an Verantwortungsbewusstsein?,train,unabhängig
+1,"Sie treffen unabhängige Entscheidungen, stehen zu ihren Fehlern und gehen ihren eigenen Weg.",train,unabhängig
+0,"Die Aufsichtsbehörde muss vor allem völlig unabhängig handeln, also unabhängig von jedem direkten oder indirekten Einfluss von außen entscheiden können.",validate,unabhängig
+0,"Diese Frage ist zu prüfen, es ist noch nichts entschieden.",train,entschieden
+1,Du bist unabhängig und hast alle Freiheiten – trägst aber auch die gesamte Verantwortung.,train,unabhängig
+0,Darüber hinaus machen sich immer mehr Wintersportler von der Jahreszeit unabhängig. ,test,unabhängig
+0,Entschieden werden muss lediglich der Einsatzbereich der Hilfe und der Umfang der Mittel.,train,entschieden
+1,"Du bist unabhängig, kannst arbeiten, wann und wo du willst.",validate,unabhängig
+0,"Es ist absolut notwendig, dass die Gruppe ganz und gar unabhängig arbeiten kann.",train,unabhängig
+0,Was man aus den nachgelassenen Schriften der langjährigen Zeit-Chefin Marion Gräfin Dönhoff lernen kann: sich unabhängig zu machen vom Geschehen der Welt,validate,unabhängig
+0,Wir müssen uns dieser inakzeptablen Absicht entschieden widersetzen.,train,entschieden
+0,"Ich hoffe, dass dort in Ihrem Sinne entschieden wird.",validate,entschieden
+0,noch ist nichts endgültig entschieden,test,entschieden
+1,"Sie sind, was ich besonders betonen möchte, absolut und vollkommen unabhängig.",test,unabhängig
+0,Mit dieser regensicheren Perea Markise machen Sie sich von Wind und Wetter unabhängig und nutzen die Natur als zusätzlichen Freiraum.,validate,unabhängig
+0,Diese entscheiden und handeln letztlich unabhängig und in eigener Verantwortung.,validate,unabhängig
+0,"3 Milliarden Euro für Projekte, die Europa von russischer Energie unabhängig machen",train,unabhängig
+1,Wie Sie Vertrauen schaffen und trotzdem unabhängig agieren.,validate,unabhängig
+0,"Ich werde hingehen, unabhängig davon, ob du mitkommst oder nicht.",train,unabhängig
+0,Als Schöff*in oder Jugendschöff*in sind Sie unabhängig in Ihrer Entscheidung und gleichgestellt mit Berufsrichter*innen.,train,unabhängig
+1,"Die amerikanischen und israelischen Medien sangen ein Loblied auf ihn und beschrieben ihn als starken, entschiedenen Führer",train,entschieden
+0,den Vorschlag lehne ich ganz entschieden ab,train,entschieden
+0,"Davon unabhängig war ich der Meinung, Ihre Frage bezöge sich mehr auf die Partnerschaft.",train,unabhängig
+0,Mithilfe von mobilen Heizzentralen minimieren Sie Ihr Planungsrisiko und bleiben vom Wetter unabhängig,train,unabhängig
+1,"Zum Iran dankte Bush ausdrücklich Merkel für ihre ""entschiedene Führung"" bei der Durchsetzung einer scharfen Regelung.",train,entschieden
+0,"Informelle Kolonien sind formal unabhängige Kolonien, die in indirekter Abhängigkeit (Technik/Kapital) zu Grossmächten stehen durch zum Beispiel die 
+Gewährung von Anleihen, durch Auflagen, oder durch den Ausbau von Verkehrswegen oder Handelsverträgen, welche Grossmächte begünstigen.",train,unabhängig
+0,solche Dinge werden oben entschieden,validate,entschieden
+0,Sie wollen sich unabhängig machen und Wärme und Strom für Ihr Heim selbst erzeugen?,train,unabhängig
+1,Du bist unabhängig und flexibel?,train,unabhängig
+1,"Anthonis, Beiname „de Advocaat“, war für seine eloquente, entschiedene Art bekannt, aber auch gefürchtet, da er regelmäßig mit Funktionären aneinandergeriet.",train,entschieden
+0,"Unternehmen profitieren von den Kapitalanlegern, weil sie sich unabhängig machen von Banken",test,unabhängig
+1,Sie übernahm auf ihre entschiedene Art das Kommando.,test,entschieden
+0,Darüber müsste in der nächsten Phase des Prozesses entschieden werden.,train,entschieden
+1,Willensstärke zeigt Dich als entschiedene Führungskraft und schafft Klarheit für die Menschen in Deinem Umfeld.,train,entschieden
+0,Sich unabhängig zu machen von Konzernpolitik oder Vor-Gesetzten? FranNet unterstützt angehende Unternehmer bei der Suche nach einem passenden Geschäftsmodell und begleitet Sie zum Ziel.,train,unabhängig
+1,"Eastman setzt sich entschieden und kontinuierlich dafür ein, die Bedürfnisse seiner. Mitarbeiter zu erfüllen und zu übertreffen.",validate,entschieden
+0,"Anders als bei Depressionen, die von der Jahreszeit unabhängig zu sein scheinen, zeigen SAD-Betroffene ein erhöhtes Schlafbedürfnis",train,unabhängig
+0,Das geht entschieden zu weit.,train,entschieden
+0,"Der Sport muß allen Menschen zugänglich bleiben, unabhängig von Klasse und Herkunft.",train,unabhängig
+1,"Sie sind unabhängig, analytisch und fleißig",validate,unabhängig
+0,Vom Termin unabhängig bieten die Wanderfreunde zusammen mit der Stadt Heringen auch permanente Rundwanderungen an.,train,unabhängig
+0,"Um diese Aufgaben zu erfüllen, müssen Medien frei und unabhängig in ihrer Berichterstattung sein. ",test,unabhängig
