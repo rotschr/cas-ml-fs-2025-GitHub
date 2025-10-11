@@ -1,6 +1,6 @@
 arch==7.0.0
 eurostat==1.1.1
-notebook==7.2.1
+notebook==7.2.2
 numpy==1.26.4
 matplotlib==3.9.2
 pandas==2.2.2
